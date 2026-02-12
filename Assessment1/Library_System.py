@@ -20,8 +20,8 @@ class LibraryBook:
             print("Dear",self.sname,",You have no book to return")
             return
         self.book_issued = False
-        print("Dear",self.sname,",Book returned successfully")
         LibraryBook.calculate_fine(self,days)
+        print("Dear",self.sname,",Book returned successfully")
 
     def calculate_fine(self,days):
         if(self.book_issued == False):
