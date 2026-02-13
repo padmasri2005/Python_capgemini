@@ -1,0 +1,9 @@
+2026-02-12 22:11:43,721 - INFO - Exam started for Padmasri
+2026-02-12 22:11:43,721 - INFO - Exam submitted by Padmasri
+2026-02-12 22:11:43,721 - INFO - Student: Padmasri | Correct: 35 | Percentage: 70.00 | Result: PASS
+2026-02-12 22:11:43,721 - WARNING - No submission found for Ravi
+2026-02-12 22:11:43,721 - INFO - Exam started for Ravi
+2026-02-12 22:11:43,721 - INFO - Exam submitted by Ravi
+2026-02-12 22:11:43,721 - INFO - Student: Ravi | Correct: 10 | Percentage: 20.00 | Result: FAIL
+2026-02-12 22:11:43,722 - INFO - Pass marks updated to 60
+2026-02-12 22:11:43,722 - INFO - Student: Ravi | Correct: 10 | Percentage: 20.00 | Result: FAIL
